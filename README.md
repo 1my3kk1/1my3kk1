@@ -4,7 +4,7 @@
 # 👋 Hi, I'm Yekki
 
 
-<div align="center">
+<div>
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/1my3kk1)
 
