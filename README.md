@@ -1,11 +1,14 @@
 
-<img src="https://i.pinimg.com/736x/c9/82/c3/c982c3c09b6e8bb245b7acdd23d76654.jpg" width="180" style="border-radius:12px"/>
-
-# 👋 Hi, I'm Yekki
+### 👋, i'm yekki.
 
 
-<div>
+### learning
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/1my3kk1)
+![HTML5](https://img.shields.io/badge/html5--orange?logo=html5) ![Python](https://img.shields.io/badge/python--blue?logo=python) ![Js](https://img.shields.io/badge/javascript--yellow?logo=javascript) 
 
-</div>
+
+
+### socials
+[![Discord](https://img.shields.io/badge/discord-add_me-222222?logo=discord)](https://discord.com/1my3kk1)
+
+### ;)
